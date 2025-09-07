@@ -21,4 +21,5 @@ while True:
         print("GoodBye:)")
         break
     else:
-        print("Exited!")
+        print("Exited!") 
+        print("*" * 40 + "\n")
