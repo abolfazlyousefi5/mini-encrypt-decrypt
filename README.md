@@ -49,11 +49,5 @@ This project helps you improve your:
 - Working with ASCII values and characters.
 
 - Basics of project structure and GitHub.
-## 💡 Future Ideas :
-- Add file encryption support.
-
-- Stronger algorithms (Caesar cipher, Base64, etc.).
-
-- GUI version with Tkinter.
 ## 📜 License :
 This project is under the MIT License – free to use, copy, and modify.
