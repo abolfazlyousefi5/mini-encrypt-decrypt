@@ -21,5 +21,4 @@ This project is perfect for **beginners** who want to practice Python basics lik
 - **Encryption**: Each character → converted to ASCII → multiplied by `2` → `+5` → converted back to a character.  
 - **Decryption**: Reverse process → subtract `5` → divide by `2` → convert back to the original character.  
 
-### Example:
 
